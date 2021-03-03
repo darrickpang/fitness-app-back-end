@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :activity_users
+  resources :goals
   resources :activities
   resources :users
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
