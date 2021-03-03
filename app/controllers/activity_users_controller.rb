@@ -1,0 +1,2 @@
+class ActivityUsersController < ApplicationController
+end
